@@ -1,0 +1,2 @@
+include ':mobile', ':wear', ':tv'
+include ':openCVLibrary320'
