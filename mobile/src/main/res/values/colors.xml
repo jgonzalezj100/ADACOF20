@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#992416</color>
+    <color name="colorBoton">#c0e16e</color>
+    <color name="list_item_title">#fff</color>
+    <color name="list_background">#303030</color>
+    <color name="list_background_pressed">#992416</color>
+    <color name="list_divider">#272727</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+    <color name="window_background">#FFF5F5F5</color>
+
+    <color name="white">#ffffff</color>
+    <color name="primaryColor">#346D7D</color>
+    <color name="primaryDarkColor">#1F515F</color>
+    <color name="accentColor">#03A9F4</color>
+
+
+    <color name="azul">#1a48ae</color>
+    <color name="azuldos">#007ccc</color>
+    <color name="azultres">#2a48a5</color>
+    <color name="azulcuatroalto">#3333ff</color>
+    <color name="azulcincobajo">#779beb</color>
+    <color name="azulseis">#5b99e6</color>
+    <color name="celeste">#1a92ae</color>
+    <color name="celestedos">#00dcee</color>
+    <color name="celestetres">#c4f0fe</color>
+    <color name="celestecuatrobajo">#89c4ff</color>
+    <color name="celestecincoalto">#d6ff00</color>
+    <color name="dorado">#ffd700</color>
+    <color name="tomate">#ffa500</color>
+    <color name="tomatedosbajo">#ffa851</color>
+    <color name="tomatetresalto">#ff5000</color>
+    <color name="verde">#abff00</color>
+    <color name="verdedos">#b7d65e</color>
+    <color name="verdetresbajo">#ceff9d</color>
+    <color name="verdecuatroalto">#7ccc00</color>
+    <color name="verdecincomedio">#c1ff00</color>
+    <color name="negro">#000000</color>
+    <color name="blanco">#ffffff</color>
+    <color name="cafe">#d5b75a</color>
+    <color name="cafedos">#e6d49b</color>
+    <color name="cafetresinteso">#5c3708</color>
+    <color name="plomounointenso">#929689</color>
+    <color name="plomodossuave">#62656a</color>
+    <color name="plomotres">#929689</color>
+    <color name="morado">#cc55ff</color>
+    <color name="moradodosbajo">#ce9dff</color>
+    <color name="rosadounosuave">#e6d49b</color>
+    <color name="purpuraunoalto">#992f2f</color>
+
+
+
+</resources>

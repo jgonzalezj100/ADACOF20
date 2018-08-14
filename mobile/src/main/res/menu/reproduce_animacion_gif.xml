@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".vista.reproduccionmultimedia.ReproduceAnimacion" >
+
+
+    <item
+        android:id="@+id/actionAnimacionMenuAyuda"
+        android:background="@android:color/transparent"
+        android:icon="@drawable/selector_btn_acercade"
+        android:orderInCategory="100"
+        android:title="menu" />
+    <item
+        android:id="@+id/actionAnimacionMenuPrincipal"
+        android:background="@android:color/transparent"
+        android:icon="@drawable/selector_btn_menu_princicpal"
+        android:orderInCategory="100"
+        android:title="menu1" />
+
+</menu>

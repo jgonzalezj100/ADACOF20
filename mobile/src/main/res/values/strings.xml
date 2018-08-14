@@ -1,0 +1,163 @@
+<resources>
+    <string name="app_name">ADACOF2.0</string>
+    <string name="facebook_app_id">652740224917288</string>
+    <string name="fb_login_protocol_scheme">fb652740224917288</string>
+    <string name="title_activity_login">Login</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="cancel_login">Se canceló la operación</string>
+    <string name="error_login">Ocurrió un error al ingresar</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="firebase_error_login">Error al iniciar sesión en Firebase</string>
+
+
+    <string name="action_settings">Settings</string>
+
+    <string name="home_item">Home</string>
+    <string name="productos_item">RECONOCIMIENTO DE TEXTO</string>
+    <string name="reconocimento_item">RECONOCIMIENTO DE IMAGEN</string>
+    <string name="compras_item">EJERCICIOS FONATORIOS</string>
+    <string name="ordenes_item">EJERCICIOS LOGOCINETICOS</string>
+    <string name="facturas_item">CONCIENCIA FONOLOGICA</string>
+    <string name="log_out_item">LOG OUT</string>
+    <string name="configuracion_item">CONSTRUCCION DE ORACIONES</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_open_cv">OpenCv</string>
+    <string name="title_activity_inicio">ActivityInicio</string>
+
+
+    <string name="act">Android Content Description</string>
+    <string name="GestionDatosHintBuscar">escriba el nombre o apellido</string>
+    <string name="ingresarDatosHintNombre">ingrese su nombre</string>
+    <string name="ingresarDatosHintApellido">ingrese su apellido</string>
+    <string name="GestionDatosBtnCerrar">CERRAR</string>
+    <string name="ingresarDatosHintNombresApellidos">escriba el nombre o apellido</string>
+    <string name="title_activity_menu_modulos">MÓDULOS DE ADACOF</string>
+    <string name="menuModulosTitulo">EJERCICIOS</string>
+    <string name="menuModulosInstruccion">ESCOJA UN OPCIÓN PARA EMPEZAR</string>
+    <string name="menuModuloPercepcionInstruccion">ESCOJA UNA LETRA PARA TRABAJAR</string>
+    <string name="menuModulosModuloUno">EJERCICIOS FONATORIOS</string>
+    <string name="menuModulosModuloDos">EJERCICIOS LOGOCINÉTICOS</string>
+    <string name="menuModulosModuloTres">CONCIENCIA FONOLÓGICA</string>
+    <string name="menuModulosModuloCuatro">FUNPHONEM</string>
+    <string name="menuModulosModuloCinco">CONSTRUCCIÓN DE ORACIONES</string>
+    <string name="menuModulosModuloAdministracion">ADMINISTRACIÓN</string>
+    <string name="inicioAplicacion">CARGANDO ADACOF</string>
+    <string name="title_activity_pantalla_inicio">ADACOF</string>
+    <string name="title_activity_pantalla_ingreso_examinador">INGRESAR DATOS DEL EXAMINADOR</string>
+    <string name="ingresoTerapistaDatos">REGISTRO TERAPISTA</string>
+    <string name="ingresoTerapistaDatosNombre">NOMBRES TERAPISTA</string>
+    <string name="ingresoTerapistaDatosApellido">APELLIDOS TERAPISTA</string>
+    <string name="title_activity_modulo_uno_fonatorios">EJERCICIOS FONATORIOS</string>
+    <string name="modulounofonatoriosInstruccion">ESCOJA UNA TERAPIA Y EJERCICIO PARA LA TERAPIA</string>
+    <string name="title_activity_modulo_soplo">ModuloSoplo</string>
+    <string name="title_activity_modulo_respiracion">ModuloRespiracion</string>
+    <string name="nombreEjercicioModulo">EJERCICIOS FONATORIOS</string>
+    <string name="title_activity_reproduce_video">ReproduceVideo</string>
+    <string name="moduloUnoCategoriasInstruccion">Escoger una categoria y un video para trabajar</string>
+    <string name="drawer_open">drawer abierto</string>
+    <string name="drawer_close">drawer cerrado</string>
+    <string name="mensaje_menu_modulos_fonatorio">Escoja un video ó animación para practicar</string>
+
+
+    <string name="tituloAppCaraturla">APRENDIZAJE DIGITAL DE LA ARTICULACIÓN DEL CODIGO FONÉTICO</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="BienvenidaTituloPantallaInicio">BIENVENIDO A ADACOF </string>
+    <string name="BienvenidaTituloBotonInicioTerapia">INICIAR LA TERAPIA CON</string>
+    <string name="BienvenidaTituloBotonEscogeOtroNino">ESCOGER OTRO NIÑO</string>
+    <string name="title_activity_gestion_datos">GESTIÓN DE DATOS DEL NIÑO</string>
+    <string name="GestionDatosTituloPantallaInicio">LISTADO DE LOS NIÑOS</string>
+    <string name="GestionDatoslblBuscarNino">ESCRIBA EL NOMBRE O APELLIDO DEL NIÑO A BUSCAR </string>
+    <string name="menuBuscarNinoTitulo">ESCOGER OTRO NINO</string>
+    <string name="menuAyudaTitulo">AYUDA</string>
+    <string name="GestionDatosBtnSeleccionar">SELECCIONAR</string>
+    <string name="GestionDatosBtnTar">TAR</string>
+    <string name="IngresarDatosTituloPantallaInicio">INGRESAR DATOS DEL NIÑO</string>
+    <string name="IngresarDatoslblnombre">   NOMBRES              :</string>
+    <string name="IngresarDatoslblapellido">  APELLIDOS :</string>
+    <string name="IngresarDatoslblfecha">FECHA  DE NACIMIENTO:</string>
+    <string name="IngresarDatoslblFoto">FOTO :</string>
+    <string name="IngresarDatosbtnOk">INGRESAR</string>
+    <string name="IngresarDatosbtncancel">CANCELAR</string>
+    <string name="IngresarDatosbtnSalir">SALIR</string>
+    <string name="BienvenidaBotonDialogoAcercaDe">CERRAR</string>
+    <string name="title_activity_grilla_imagenes">GrillaImagenes</string>
+    <string name="GestionDatosBtnBuscar">BUSCAR NINO</string>
+    <string name="descr_image">Image</string>
+    <string name="GestionDatosBtnIngresar">INGRESAR NIÑO</string>
+    <string name="GestionDatosBtnModificar">MODIFICAR NIÑO</string>
+    <string name="GestionDatosBtnEliminar">ELIMINAR NIÑO</string>
+    <string name="ControlPaginasBtnActualizar">OTRAS PALABRAS</string>
+    <string name="ControlPaginasBtnNuevo">DE NUEVO</string>
+    <string name="ControlPaginasBtnOtraletra">ESCOJE OTRA LETRA</string>
+    <string name="ControlPaginasBtnOtraOracion">ESCOJE NUEVA ORACIÓN</string>
+    <string name="ControlPaginasBtnReset">COMENZAR DE NUEVO</string>
+    <string name="ControlPaginasBtnCerrar">CERRAR</string>
+    <string name="FRASE_PREMIACION">FELICITACIONES  !!!!!!!</string>
+
+
+    <string name="action_sign_in_short">Registrarte</string>
+    <string name="email">Email</string>
+
+    <string name="nombreCentro">Nombre del Centro</string>
+    <string name="nombreTelefono">Numero de Telefono</string>
+    <string name="direccionCentro">Direccion del Centro</string>
+    <string name="nombreTerapista">Nombre Terapista</string>
+
+
+    <string name="minimum_password">La contraseña debe contener como minimo 6 caracterres</string>
+    <string name="auth_failed">Error Correo o Contraseña Incorrectos</string>
+    <string name="change_email">Cambiar Correo</string>
+    <string name="change_password">Cambiar Contraseña</string>
+    <string name="send_password_reset_email">Reinciar Contraseña</string>
+    <string name="remove_user">Borrr Usuario</string>
+    <string name="new_pass">Nueva contraseña</string>
+    <string name="title_activity_profile">Firebase</string>
+
+    <string name="mensaje_velocidad_animacion">VELOCIDAD :</string>
+
+
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Registrate con tu email !</string>
+    <string name="btn_link_to_login">Iniciar Sesion!</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Olvidaste tu contraseña?</string>
+    <string name="btn_reset_password">Reinciar Contraseña</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="hint_new_email">New Email</string>
+    <string name="btn_change">Cambiar</string>
+    <string name="btn_send">Enviar</string>
+    <string name="btn_remove">Eliminar</string>
+    <string name="btn_sign_out">Salir</string>
+    <string name="lbl_forgot_password">Olvidaste tu contraseña?</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_menu_conciencia">MenuConciencia</string>
+
+
+    <string name="menu_settings">Settings</string>
+    <string name="viewpager_title">Fragment with FragmentPagerAdapter</string>
+    <string name="activity_tabhost_title">Activity with FragmentTabHost</string>
+    <string name="activity_title_tabhost_layout">FragmentTabHost In Xml</string>
+    <string name="activity_title_tabhost_as_ui">FragmentTabHost as Ui</string>
+    <string name="tabhost_layout_description">This example has the FragmentTabHost in xml.</string>
+
+    <string-array name="nesting_types">
+        <item>Fragment with FragmentPagerAdapter </item>
+        <item>Fragment with FragmentTabHost in Xml Layout</item>
+        <item>Fragment with FragmentTabHost as Ui</item>
+        <item>Activity with FragmentTabHost</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_registro_usuario">RegistroUsuarioActivity</string>
+
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+<com.wonderkiln.camerakit.CameraView
+    android:id="@+id/camView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:ckFacing="back"
+    app:ckFlash="off"
+    app:ckFocus="tapWithMarker"
+    app:ckJpegQuality="100"
+    app:ckMethod="standard"
+    app:ckVideoQuality="highest"
+    />
+
+
+
+
+<ec.edu.ups.unesco.giiata.adacof20.reconocimientoTexto.GraphicOverlay
+    android:id="@+id/graphic_overlay"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" />
+
+
+<Button
+    android:id="@+id/cameraBtn"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="bottom"
+    android:text="Reconocer" />
+
+<ImageView
+    android:id="@+id/imgCamera"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" />
+</FrameLayout>

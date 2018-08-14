@@ -1,0 +1,28 @@
+ <menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+ 
+
+	  
+		<item
+	        android:id="@+id/actionReproduceVideMenuAyuda"
+	        android:orderInCategory="100"
+
+ 		    android:icon="@drawable/selector_btn_acercade"
+ 		    android:background="@android:color/transparent"
+	    />
+		<item
+	        android:id="@+id/actionReproduceVideoMenuPrincipal"
+	        android:orderInCategory="100"
+
+ 		    android:icon="@drawable/selector_btn_menu_princicpal"
+ 		    android:background="@android:color/transparent" 		    
+	    />
+ 
+		
+</menu>
+ 
+
+
+
+
+

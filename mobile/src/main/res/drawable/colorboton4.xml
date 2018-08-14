@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+  <item android:state_pressed="true" >
+    <shape>
+        
+      <!--- color a todo el interior del boton -->  
+      <solid
+          android:color="@color/tomate" />
+      <!--- para el borde del boton  -->
+      <stroke
+          android:width="1dp"
+          android:color="@color/purpuraunoalto" />
+      <corners
+          android:radius="6dp" />
+      <padding
+          android:left="5dp"
+          android:top="5dp"
+          android:right="5dp"
+          android:bottom="5dp" />
+    </shape>
+  </item>
+  <item>
+    <shape>
+      <gradient
+          android:startColor="@color/blanco"
+          android:endColor="@color/blanco"
+          android:angle="270" />
+      <stroke
+          android:width="1dp"
+          android:color="@color/negro" />
+      <corners
+          android:radius="6dp" />
+      <padding
+          android:left="5dp"
+          android:top="5dp"
+          android:right="5dp"
+          android:bottom="5dp" />
+    </shape>
+  </item>
+</selector>    

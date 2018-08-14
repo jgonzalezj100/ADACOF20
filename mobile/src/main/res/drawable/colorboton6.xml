@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+  <item android:state_pressed="true" >
+    <shape>
+        
+      <!--- color a todo el relleno del boton -->  
+      <solid
+          android:color="@color/tomate" />
+      <!--- para el ancho del borde del boton y la segunda es para el color del borde -->
+      <stroke
+          android:width="3dp"
+          android:color="@color/plomotres" />
+      <corners
+          android:radius="1dp" />
+            <!--- separacion del tecto con los bordes  del boton  -->
+      <padding
+          
+          android:left="4dp"
+          android:top="3dp"
+          android:right="4dp"
+          android:bottom="3dp" />
+    </shape>
+  </item>
+  <item>
+    <shape>
+      <gradient
+          android:startColor="@color/cafe"
+          android:endColor="@color/blanco"
+          android:angle="270" />
+      <stroke
+          android:width="3dp"
+          android:color="@color/plomotres" />
+      <corners
+          android:radius="6dp" />
+      <padding
+          android:left="4dp"
+          android:top="3dp"
+          android:right="4dp"
+          android:bottom="3dp" />
+    </shape>
+  </item>
+</selector>    
+ 

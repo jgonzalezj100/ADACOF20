@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".vista.reproduccionmultimedia.ReproduceVideoSecuencial" >
+
+ 	     
+ 	     
+ 	     <item
+	        android:id="@+id/actionSecuenciaMenuAyuda"
+	        android:orderInCategory="100"
+
+ 		    android:icon="@drawable/selector_btn_acercade"
+ 		    android:background="@android:color/transparent"
+	    />
+		<item
+	        android:id="@+id/actionSecuenciaMenuPrincipal"
+	        android:orderInCategory="100"
+
+ 		    android:icon="@drawable/selector_btn_menu_princicpal"
+ 		    android:background="@android:color/transparent" 		    
+	    />
+ 	     
+</menu>

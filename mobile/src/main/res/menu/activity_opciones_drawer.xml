@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:checked="true"
+            android:icon="@drawable/ic_home"
+            android:title="@string/home_item" />
+        <item
+            android:id="@+id/nav_productos"
+            android:icon="@drawable/ic_store"
+            android:title="@string/productos_item" />
+        <item
+            android:id="@+id/nav_imagen"
+            android:icon="@drawable/ic_store"
+            android:title="@string/reconocimento_item" />
+
+
+        <item
+            android:id="@+id/nav_fonotarios"
+            android:icon="@drawable/soplandovela"
+            android:title="@string/compras_item" />
+        <item
+            android:id="@+id/nav_logocineticos"
+            android:icon="@drawable/feliz"
+            android:title="@string/ordenes_item" />
+        <item
+            android:id="@+id/nav_concienca"
+            android:icon="@drawable/ic_file_document"
+            android:title="@string/facturas_item" />
+
+        <item
+            android:id="@+id/nav_log_out"
+            android:icon="@android:drawable/ic_lock_power_off"
+            android:title="@string/log_out_item" />
+
+
+        <!-- Sección de configuración -->
+        <item
+            android:id="@+id/configuration_section"
+            android:title="@string/configuracion_item">
+            <menu>
+                 </menu>
+        </item>
+    </group>
+
+</menu>

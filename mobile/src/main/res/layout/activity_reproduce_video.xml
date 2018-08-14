@@ -1,0 +1,63 @@
+ <android.support.v4.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"    
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linlayVideoReproducePanelPrincipal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/verdedos"
+    android:orientation="vertical"
+    tools:context=".MenuModulos" >
+
+    <LinearLayout
+        android:id="@+id/linlayVideoReproduceEjercicios"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="6"
+        android:background="@drawable/borderlayoutuno"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/linlayVideoReproducePanelPanelTitulo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/borderlayouttitulo"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/txtVideoReproduceTitulo"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:layout_gravity="center_horizontal"
+                android:textColor="@color/negro"
+                android:textSize="21sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linlayVideoReproducePanelvideo"            
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <VideoView
+                android:id="@+id/videoViewEjercicio"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_horizontal"
+           />
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <ListView android:id="@+id/drawer_list_menuVideoReproduce"
+        android:layout_width="140dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:choiceMode="singleChoice"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="0dp"
+        android:background="@color/cafe"/>
+
+</android.support.v4.widget.DrawerLayout>
